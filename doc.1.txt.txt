@@ -1,6 +1,1 @@
-We are going to get it right.
-lets learn how to pull changes.
-pull
-pull
-pull
-adding content to create merge conflict
+we have solved the merge conflict
