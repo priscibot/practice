@@ -1,1 +1,3 @@
-we have solved the merge conflict
+
+let the merge conflict be solved
+
